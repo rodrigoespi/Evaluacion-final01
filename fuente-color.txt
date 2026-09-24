@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+Fuente:
+ font-family-text: 'Raleway', sans-serif;
+ font-family-titles: 'Playfair Display', serif;
+
+Colores:
+ color-black: #000;
+ color-white: #fff;
+ color-blue: #037bc0;
+ color-dark-blue: #005485;
+ color-green: #8cbc00;
+
+Enlace del proyecto:
+https://radiant-tartufo-965c9b.netlify.app/
